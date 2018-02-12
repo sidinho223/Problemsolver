@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * This class represents a state space solver by extending the abstract
  * Solver class.
- * @author Your name and section here
+ * @author Sidim
  */
 public class StateSpaceSolver extends Solver {
     
