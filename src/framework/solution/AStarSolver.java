@@ -19,7 +19,7 @@ import java.util.PriorityQueue;
 /**
  * This class represents an A* solver by extending the StateSpaceSolver
  * class.
- * @author Your name and section here
+ * @author Sidim
  */
 public class AStarSolver extends StateSpaceSolver {
     
